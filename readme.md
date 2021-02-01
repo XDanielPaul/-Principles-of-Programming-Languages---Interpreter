@@ -1,6 +1,8 @@
 ﻿## **Dokumentácia ku implementácií 2. úlohe IPP 2019/2020**
 Implementačná dokumentácia k 2. úlohe do IPP 2019/2020 
+
 Meno a priezvisko: Daniel Paul 
+
 Login: xpauld00
  
 ## Interpret kódu IPPcode20  
